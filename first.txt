@@ -1,0 +1,59 @@
+<!DOCTYPE html >
+<html>
+
+	<head>
+		<title> Michael Flynn's BIO </title>
+		<style type="text/css">
+ 			body {  background: #4B0082; text-align: center;
+ 			  }
+ 			  h1 {
+ 			  	color: black;
+ 			  	font-size: 45px;
+
+ 			  }
+ 			  h2,h3,h4,h5,h6 { 	color: black;
+ 			  	font-size: 30px;}
+
+ 			ul, p {	 color: white;
+ 			  	font-size: 18px;}
+
+		</style>
+ 		</Head>
+ 		<h1> <em> Who is Michael Flynn </em> </h1>
+<img src="https://scontent-a-dfw.xx.fbcdn.net/hphotos-xpa1/t1.0-9/1012141_10152013585615267_798893926_n.jpg" width="500" height="400" Alt="Me Fishing">
+<img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10468059_10103029945347712_2842133605319846306_n.jpg" width="500" height="400" Alt="Me with my dad">
+<img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/10246440_10152126041535267_6459936077960916986_n.jpg" width="500" height="400" Alt="Segway Tour Nashville">
+
+
+     <h2>INTERESTS:</h2>
+
+
+	<ul>
+		<il><a href="http://www.baltimoreravens.com"><img src="http://hdfons.com/wp-content/uploads/2012/10/baltimore_ravens_wallpaper-1.jpg" width="120" height="90" Alt=" Baltimore Ravens"> </a> </p>Die hard Ravens fan, I used to live three blocks from M&T bank stadium and could hear the crowd chant the chorus to White Stripes "Seven Nation Army" from my back deck!<p> </p>  <a href="http://www.baltimoreravens.com/">  </a> </il>
+		<il> <a href="http://www.espn.com"><img src="https://yt3.ggpht.com/-yOoKXdob9y8/AAAAAAAAAAI/AAAAAAAAAAA/O9ATiv9wGJ0/s900-c-k-no/photo.jpg" width="120" height="90" Alt="Espn Logo"> </a> <p> </p> Everyone has their morning routines, and ESPN has been apart of that routine for the last decade. I wake up, catch one episode of sports center check the scores of the games the night before and then I am ready to take on the world.</font>  </a> </il>  <p></p>
+		<il> <a href="http://www.imdb.com"><img src="http://www.tasteofcinema.com/wp-content/uploads/2012/11/imdb-250.jpg" width="120" height="90" Alt=" IMDB"></a></p> <p> </p>Being in the Hospitality field for the better part of a decade you become a night owl, getting home late catching a movie on an obscure channel at 2am, the natural thing to do is find out everything you can about said movie, so IMDB is a must have.</font>    </il>  </p></a> </il>
+		<il><a href="http://games.espn.go.com/frontpage"><img src="http://therulesonthefield.files.wordpress.com/2012/09/fantasy_football_dnd.jpg" width="200" height="150" Alt=" Fantasy Football "> </a > <p> </p>I spend 6 Months of the year working two jobs; I own and manage a fantasy football team from August through January. It started six years ago, a couple of guys got together for a what we thought would be a relaxing hobby. Six years later and it has transformed from a hobby to a 24 hour a day <strong>obsession</Strong>.</font>  </il>
+
+	</ul>
+
+<h2>Why I chose to pursue Launch Academy? </h2>
+
+	<p>After deciding that I wanted to pursue a career within the web development community, I started doing research on my options to get my foot in the door. After extensive research I knew I had two options: pursue a traditional four year program through a university or attend one of the many Web Development boot camps around the country.  </P>
+
+<p>I decided that the more intensive condensed boot camp option was a better fit for my learning style.  I am a kinetic learner and as so I need to apply the principals I am learning to real life situations as I am learning them.I also I have a desire to be around like minded individuals who challenge themselves daily to be the best at what they do, as well as challenging those around them to achieve the best they can achieve, both personally and professionally. I always give 100% and try my best to support my team to the best of my ability, and was looking for a program that stressed team work. That is when I came across Launch Academy and their intensive 10 week program located in Boston, MA. Launch Academy requires that the cohorts that are admitted into this rigorous program have a strong desire to give 100% for the entire length of the program, they start you off on pre-work so you when you arrive you can capitalize on the time you have when you are at thier campus, they also emphasize on the character and personality of the candidates. Spending between 60-80 hours a week for 10 weeks it is important to know that Launch Academy sees the value in ensuring that all cohorts are like minded in achieving their goal. What really struck me as the most impressive thing they offered that many of their competitors did not; was the six months after graduation mentorship and use of facilities that they offer to their alumni. In a specialized field such as web development it is extremely valuable to know that you have a resource that you can utilize to help with the initial transition phase. </P>
+
+
+
+
+
+</audio>
+
+</Ul>
+</font>
+
+	</body>
+
+
+
+</html>
+
